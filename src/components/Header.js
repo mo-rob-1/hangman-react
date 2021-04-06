@@ -4,7 +4,7 @@ const Header = () => {
     return (
         <>
             <h1>Hangman</h1>
-            <p>Guess the hidden word - Enter a letter!</p>
+            <p>Guess the hidden word - Enter a letter.</p>
         </>
     )
 }
